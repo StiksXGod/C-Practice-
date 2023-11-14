@@ -1,4 +1,12 @@
 #include <iostream>
+/*
+
+Best: O(n*log n)
+Average: O(n*(log n)^2)
+Worst: O(n*(log n)^2)
+Space auxiliar: O(1)
+
+*/
 
 
 
