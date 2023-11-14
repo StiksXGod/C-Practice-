@@ -1,5 +1,12 @@
 #include <iostream>
+/*
 
+Best: O(n)
+Average: O(n^2)
+Worst: O(n^2)
+Space auxiliar: O(1)
+
+*/
 
 void insertionSort(int *arr, int n){
     int element, j;

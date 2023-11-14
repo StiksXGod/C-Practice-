@@ -1,4 +1,13 @@
 #include <iostream>
+/*
+
+Best: O(n^2)
+Average: O(n^2)
+Worst: O(n^2)
+Space auxiliar: O(1)
+
+*/
+
 
 
 void selectionSort(int *arr, int n){
