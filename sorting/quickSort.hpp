@@ -4,7 +4,7 @@
 Best: O(n*log n)
 Average: O(n*log n)
 Worst: O(n^2)
-Space auxiliar: O(log n)
+Space auxiliar: O(log n)/O(n)
 
 */
 
